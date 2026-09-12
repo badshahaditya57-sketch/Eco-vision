@@ -77,3 +77,19 @@ Feel free to submit issues, feature requests, or pull requests to improve EcoVis
 ## License
 
 This project is open source and available under the MIT License.
+## 🛠️ Local Installation and Setup
+
+Follow these steps to get a local copy of the project up and running on your machine.
+
+### Prerequisites
+
+Before you begin, ensure you have the following installed:
+* [Git](https://git-scm.com/)
+* [Node.js and npm](https://nodejs.org/) (if the project uses JavaScript/HTML)
+* [Python 3.x](https://www.python.org/) (if the project uses a Python backend)
+
+### Step-by-Step Instructions
+
+**1. Clone the repository**
+```bash
+git clone [https://github.com/Sushmitha-2007/Eco-vision.git](https://github.com/Sushmitha-2007/Eco-vision.git)
