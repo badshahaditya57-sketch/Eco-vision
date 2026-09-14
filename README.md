@@ -71,9 +71,21 @@ To enable AI-powered waste classification:
 The app includes a demo mode that works without an API key, using mock classification results to demonstrate functionality and environmental impact tracking.
 
 ## Contributing
+# EcoVision - AI Waste Classification App
 
-Feel free to submit issues, feature requests, or pull requests to improve EcoVision's waste classification accuracy and environmental impact tracking.
+EcoVision is a sustainability-focused web application that uses AI to classify waste into recyclable, non-recyclable, and compostable categories. The app helps users make environmentally conscious decisions about waste disposal while tracking their environmental impact.
 
-## License
+## 🚀 Setup Instructions
 
-This project is open source and available under the MIT License.
+Follow these easy steps to run the EcoVision app locally on your machine:
+
+1. **Clone the repository:**
+   `git clone https://github.com/Sushmitha-2007/Eco-vision.git`
+
+2. **Navigate to the project directory:**
+   `cd Eco-vision`
+
+3. **Run the application:**
+   Since this project uses vanilla HTML, CSS, and JavaScript, you can simply double-click the `index.html` file to open it in your web browser. 
+   
+   *Recommended:* If you are using VS Code, it is highly recommended to use the **Live Server** extension to launch the app. This creates a local development server and helps prevent CORS (Cross-Origin Resource Sharing) errors when the app makes AI API requests.
